@@ -47,9 +47,9 @@ SELECT ...
 ---
 
 ## 🔗 Connect
-
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
+- LinkedIn: [Prafull Wahatule](https://www.linkedin.com/in/prafullwahatule/)
+- Portfolio: [prafullwahatule.github.io](https://prafullwahatule.github.io/portfolio/)
+- GitHub: [prafullwahatule](https://github.com/prafullwahatule)
 
 ---
 
@@ -60,4 +60,3 @@ SELECT ...
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/) — Real datasets
 - [SQLZoo](https://sqlzoo.net) — Beginner friendly
 
-#100DaysOfMySQL #DataAnalyst #SQL #MySQL #LearningInPublic
