@@ -8,7 +8,7 @@
 USE phase1_analyst;
 
 -- ============================================================
--- Case Study 1: Find All Completed High-Value Orders
+-- Case Study 1: Find All Completed High-Value Order
 -- ============================================================
 -- Business context: The e-commerce team wants to identify all
 -- completed orders above ₹10,000 to shortlist customers for
