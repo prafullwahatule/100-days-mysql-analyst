@@ -1771,6 +1771,9 @@ INSERT INTO fact_subscriptions VALUES
 (149,11,'Enterprise',4999,'2022-05-02','2022-07-31',20220502,0,'Wallet'),
 (150,134,'Enterprise',4999,'2023-11-26','2024-02-24',20231126,1,'Wallet');
 
+SELECT * FROM dim_customer;
+SELECT * FROM dim_date;
+
 
 -- ============================================================
 -- STAR SCHEMA DIAGRAM
